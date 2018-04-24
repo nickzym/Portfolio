@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'Open sans';
+    src: url('./assets/fonts/OpenSans-Regular.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+
 .nickzym-image-container {
     width: 65%;
     height: 100%;

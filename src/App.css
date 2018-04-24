@@ -1,0 +1,261 @@
+.nickzym--container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.nickzym--logo {
+    font-family: Antro Vectra;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    width: 80%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+hr {
+    border: 0;
+    min-height: 1px;
+    width: 100%;
+    background: #ccc;
+}
+
+.nickzym--column {
+    height: 10%;
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    font-size: 12px;
+    color: white;
+    font-family: Muli;
+}
+
+.nickzym--items {
+    display:flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.nickzym--itemlist {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nickzym--items span {
+    cursor: pointer;
+}
+
+.nickzym--content-wrapper {
+    margin-top: 10px;
+    width: 65%;
+    height: 100%;
+}
+
+.nickzym--content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nickzym--content3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nickzym--content2 {
+    flex-direction: column;
+}
+
+.nickzym--education-logos {
+    margin-top: 5%;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.nickzym--education-logos img:nth-child(1) {
+    width: 211px;
+    height: 56px;
+}
+
+.nickzym--education-logos img:nth-child(2) {
+    width: 190px;
+    height: 59px;
+}
+
+.nickzym--education-logos img:nth-child(3) {
+    margin-top: 10px;
+    width: 214px;
+    height: 66px;
+}
+
+.nickzym--education-logos img:nth-child(4) {
+    margin-top: 10px;
+    width: 217px;
+    height: 80px;
+}
+.nickzym--education-logos img:nth-child(5) {
+    margin-top: 10px;
+    width: 216px;
+    height: 62px;
+}
+
+.nickzym--avatar {
+    width: 25%;
+}
+
+.nickzym--intro {
+    width: 65%;
+    color: white;
+    font-family: Open Sans;
+    font-size: 13px;
+}
+
+.nickzym--intro span {
+    color: #1890ff;
+}
+
+.nickzym--education {
+    width: 100%;
+    color: white;
+    font-family: Open Sans;
+    font-size: 13px;
+}
+
+.nickzym--education span {
+    color: #1890ff;
+}
+
+.nickzym--work {
+    width: 100%;
+    color: white;
+    font-family: Open Sans;
+    font-size: 13px;
+}
+
+.nickzym--work-logos {
+    margin-top: 5%;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.nickzym--work-logos img:nth-child(1) {
+    width: 151px;
+    height: 60px;
+}
+
+.nickzym--work-logos img:nth-child(2) {
+    margin-top: -55px;
+    width: 163px;
+    height: 163px;
+}
+
+.nickzym--avatar img {
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+}
+
+.nickzym--footer {
+    margin-top: 5%;
+    width: 65%;
+    display: flex;
+    align-items: center;
+}
+
+.nickzym--footer-content {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+i {
+    font-size: 15px;
+}
+
+.nickzym--social {
+    display: flex;
+}
+
+.nickzym--social a {
+    color: black;
+    text-decoration: none;
+}
+
+.nickzym--social a:hover {
+    color: black;
+}
+
+
+.nickzym--block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.nickzym--copyright {
+    color: white;
+    font-family: Open Sans;
+    font-size: 13px;
+}
+
+.nickzym--map {
+    width: 500px;
+    height :400px;
+}
+
+.nickzym--article--container {
+    width: 100%;
+    display: flex;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nickzym--article--title {
+    font-size: 20px;
+    font-family: Muli;
+    margin-top: 10px;
+}
+
+
+.nickzym--article--date {
+    font-family: Open Sans;
+    font-size: 13px;
+    color: #bcbcbc;
+    margin-top: 10px;
+}
+
+.nickzym--article--text {
+    width: 80%;
+    font-family: Open Sans;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.nickzym--article--container hr {
+    border: 0;
+    min-height: 1px;
+    width: 80%;
+    background-color: #FFF59D;
+}
